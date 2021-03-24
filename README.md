@@ -1,2 +1,2 @@
 # python
-Learning Python
+Learning python and basic data science
